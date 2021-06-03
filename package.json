@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "fusioncharts": "^3.17.0",
+    "highcharts": "^9.1.0",
+    "highcharts-vue": "^1.4.0",
     "vue": "^3.0.0",
+    "vue-fusioncharts": "^3.1.0",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
